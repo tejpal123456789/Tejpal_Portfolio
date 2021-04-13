@@ -26,13 +26,14 @@ To consolidate my knowledge, I am a programmer in Python. I have taken courses o
 * We find that Bidirectional LSTMs predict very efficiently.
 
 ### Project 1.2: "SPAM CLASSIFIER"
-![](https://github.com/tejpal123456789/tejpal-data-science-portfolio/blob/main/images/spam.jpg)
+  ![](https://github.com/tejpal123456789/tejpal-data-science-portfolio/blob/main/images/spam.jpg)
 
 * Created a deep learning model which will classify the text whether it is spam or ham.
 * Use nltk and spacy NLP libraries for preprocess the data.
 * Use keras word embeddings to convert the words into their corresponding word vectors.
 * Used LSTM(Recuurent Neural Networks) to train the model.
 
-
+### Project 1.3: "SARCASM DETECTION"
+ ![]()
 
 
