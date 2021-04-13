@@ -12,3 +12,13 @@ I am a second-year undergraduate student at the Indian Institute of Technology B
 I have a keen interest towards Artificial Intelligence. More specifically, I am particularly interested in Machine Learning and Deep Learning.
 To consolidate my knowledge, I am a programmer in Python. I have taken courses on Machine Learning and Deep learning."
 
+# PROJECTS-
+
+## Project 1:  Text Classifications in Deep Learning"
+"This project has sub projects which are totally based on text classification task using deep learning."
+
+### Project 1.1: "DISASTER TWEETS ANANYSIS"
+
+
+
+
