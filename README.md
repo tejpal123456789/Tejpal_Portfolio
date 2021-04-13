@@ -18,6 +18,17 @@ To consolidate my knowledge, I am a programmer in Python. I have taken courses o
 "This project has sub projects which are totally based on text classification task using deep learning."
 
 ### Project 1.1: "DISASTER TWEETS ANANYSIS"
+![](https://github.com/tejpal123456789/tejpal-data-science-portfolio/blob/main/images/disaster1.jpg)
+
+* Created a model which will take tweets from the twitter and classify that it will be disaster news or not.
+
+* Did Exploratory data analysis and analyse the length of the tweets with the help of histograms .
+
+* Use GLOVE (stanford nlp) to convert words into their corresponding word vectors.
+
+* Use Naive bayes Classifier and recurrent Neural Networks to make the model.
+
+* We find that Bidirectional LSTMs predict very efficiently.
 
 
 
