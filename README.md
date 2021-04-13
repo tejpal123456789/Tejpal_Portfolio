@@ -3,7 +3,7 @@
 About me and about my work on data science
 
 # ABOUT
- <img src="/images/tejpal.png" width="300" />)
+ <img src="/images/tejpal.png" width="300" />
 
   "Hi! My name is Tejpal Kumawat .I am a data scientist. My personal interest is in Deep Learning and Natural Language Processing.
 
@@ -26,7 +26,7 @@ About me and about my work on data science
  * We find that Bidirectional LSTMs predict very efficiently.
 
 ### Project 1.2: "SPAM CLASSIFIER"
- ![]/images/spam.jpg)
+ ![](/images/spam.jpg)
 
  * Created a deep learning model which will classify the text whether it is spam or ham.
  * Use nltk and spacy NLP libraries for preprocess the data.
@@ -34,7 +34,7 @@ About me and about my work on data science
  * Used LSTM(Recuurent Neural Networks) to train the model.
 
 ### Project 1.3: "SARCASM DETECTION"
-![](https://github.com/tejpal123456789/tejpal-data-science-portfolio/blob/main/images/sarcasm.jpg)
+![](/images/sarcasm.jpg)
  
  * Created a deep learning model which will classify the text whether it is spam or ham.
  * Use nltk and spacy NLP libraries for preprocess the data.
