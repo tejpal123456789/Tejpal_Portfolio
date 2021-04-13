@@ -18,7 +18,7 @@ To consolidate my knowledge, I am a programmer in Python. I have taken courses o
 "This project has sub projects which are totally based on text classification task using deep learning."
 
 ### Project 1.1: "DISASTER TWEETS ANANYSIS"
-<img src ="https://github.com/tejpal123456789/tejpal-data-science-portfolio/blob/main/images/disaster1.jpg" width ="400")
+<img src ="https://github.com/tejpal123456789/tejpal-data-science-portfolio/blob/main/images/disaster1.jpg" width ="400" />)
 
 * Created a model which will take tweets from the twitter and classify that it will be disaster news or not.
 
