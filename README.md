@@ -4,7 +4,7 @@ About me and about my work on data science
 
 # About
 
-<img src="https://github.com/tejpal123456789/tejpal-data-science-portfolio/blob/main/images/tejpal.png" width=800 />
+<img src="https://github.com/tejpal123456789/tejpal-data-science-portfolio/blob/main/images/tejpal.png" width="400" />
 
 "Hi! My name is Tejpal Kumawat .I am a data scientist. My personal interest is in Deep Learning and Natural Language Processing.
 
