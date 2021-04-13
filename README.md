@@ -1,2 +1,4 @@
-# tejpal-data-science-portfolio
-My work on data science
+# Tejpal Kumawat Portfolio
+
+About me and about my work on data science
+
