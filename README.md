@@ -3,8 +3,7 @@
 About me and about my work on data science
 
 # ABOUT
- <img src="/images/tejpal.png" width="300" />
-
+ ![](/images/tejpal.png width="300" )
   "Hi! My name is Tejpal Kumawat .I am a data scientist. My personal interest is in Deep Learning and Natural Language Processing.
 
   I am a second-year undergraduate student at the Indian Institute of Technology Bombay. I am pursuing  Btech in Chemical Engineering.
@@ -17,7 +16,7 @@ About me and about my work on data science
 "This project has sub projects which are totally based on text classification task using deep learning."
 
 ### Project 1.1: "DISASTER TWEETS ANANYSIS"
-<img src ="/images/disaster1.jpg" width ="400" />
+![](/images/disaster1.jpg)
 
  * Created a model which will take tweets from the twitter and classify that it will be disaster news or not.
  * Did Exploratory data analysis and analyse the length of the tweets with the help of histograms .
