@@ -3,7 +3,7 @@
 About me and about my work on data science
 
 # ABOUT
- ![](/images/tejpal.png )
+ ![](/images/resize-1618382436454832916tejpal.png)
   "Hi! My name is Tejpal Kumawat .I am a data scientist. My personal interest is in Deep Learning and Natural Language Processing.
 
   I am a second-year undergraduate student at the Indian Institute of Technology Bombay. I am pursuing  Btech in Chemical Engineering.
