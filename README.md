@@ -13,7 +13,7 @@ About me and about my work on data science
 
 # PROJECTS-
 
-## Project 1:  Text Classifications in Deep Learning"
+[## Project 1:  Text Classifications in Deep Learning"](https://github.com/tejpal123456789/Natural-Language-Processing/blob/main/Diasaster_twitter_ananlysis.ipynb)
 "This project has sub projects which are totally based on text classification task using deep learning."
 
 ### Project 1.1: "DISASTER TWEETS ANANYSIS"
