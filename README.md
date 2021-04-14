@@ -16,7 +16,7 @@ About me and about my work on data science
 ## Project 1:  Text Classifications in Deep Learning
 "This project has sub projects which are totally based on text classification task using deep learning."
 
-[ ### Project 1.1: "DISASTER TWEETS ANANYSIS"](https://github.com/tejpal123456789/Natural-Language-Processing/blob/main/Diasaster_twitter_ananlysis.ipynb)
+### [ Project 1.1: "DISASTER TWEETS ANANYSIS"](https://github.com/tejpal123456789/Natural-Language-Processing/blob/main/Diasaster_twitter_ananlysis.ipynb)
 ![](/images/disaster1.jpg)
 
  * Created a model which will take tweets from the twitter and classify that it will be disaster news or not.
@@ -25,7 +25,7 @@ About me and about my work on data science
  * Use Naive bayes Classifier and recurrent Neural Networks to make the model.
  * We find that Bidirectional LSTMs predict very efficiently.
 
-### Project 1.2: "SPAM CLASSIFIER"
+### [ Project 1.2: "SPAM CLASSIFIER"](https://github.com/tejpal123456789/Natural-Language-Processing/blob/main/spam_classifer.ipynb)
  ![](/images/spam.jpg)
 
  * Created a deep learning model which will classify the text whether it is spam or ham.
@@ -33,7 +33,7 @@ About me and about my work on data science
  * Use keras word embeddings to convert the words into their corresponding word vectors.
  * Used LSTM(Recuurent Neural Networks) to train the model.
 
-### Project 1.3: "SARCASM DETECTION"
+### [Project 1.3: "SARCASM DETECTION"](https://github.com/tejpal123456789/Natural-Language-Processing/blob/main/sarcasm_detection.ipynb)
 ![](/images/sarcasm.jpg)
  
  * Created a deep learning model which will classify the text whether it is spam or ham.
