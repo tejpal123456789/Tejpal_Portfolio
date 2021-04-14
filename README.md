@@ -17,7 +17,6 @@ About me and about my work on data science
 "This project has sub projects which are totally based on text classification task using deep learning."
 
 ### [ Project 1.1: "DISASTER TWEETS ANANYSIS"](https://github.com/tejpal123456789/Natural-Language-Processing/blob/main/Diasaster_twitter_ananlysis.ipynb)
---------------
 ![](/images/disaster1.jpg)
 
  * Created a model which will take tweets from the twitter and classify that it will be disaster news or not.
@@ -25,6 +24,8 @@ About me and about my work on data science
  * Use GLOVE (stanford nlp) to convert words into their corresponding word vectors.
  * Use Naive bayes Classifier and recurrent Neural Networks to make the model.
  * We find that Bidirectional LSTMs predict very efficiently.
+ 
+ -------------------
 
 ### [ Project 1.2: "SPAM CLASSIFIER"](https://github.com/tejpal123456789/Natural-Language-Processing/blob/main/spam_classifer.ipynb)
  ![](/images/spam.jpg)
@@ -34,6 +35,7 @@ About me and about my work on data science
  * Use keras word embeddings to convert the words into their corresponding word vectors.
  * Used LSTM(Recuurent Neural Networks) to train the model.
 
+----------------------------
 ### [Project 1.3: "SARCASM DETECTION"](https://github.com/tejpal123456789/Natural-Language-Processing/blob/main/sarcasm_detection.ipynb)
 ![](/images/sarcasm.jpg)
  
