@@ -58,6 +58,16 @@ About me and about my work on data science
 * Created model with the keras and Neural Networks and started chatting with the bot
 
 
+## Project 3: Machine Translation
+![]()
+
+ " This is one of the major project of my second year. Build a machine Translation engine which will translate the text into french and hindi "
+ 
+ * Made a Translator of languages with the help of deep learning
+ * Preprocessed the whole data with nltk and spacy
+ * Converted the word into word vectors with the help of Glove.
+ * Read the paper on encoder and decoder or Seq2Seq model and try to understand the concept and maths behind it.
+ * Converted the paper into code with the help of keras tensorflow and Reccurent Neural Networks
 
  
 
