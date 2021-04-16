@@ -45,4 +45,7 @@ About me and about my work on data science
  * Used Bidirectional LSTMs(Recuurent Neural Networks) to train the model.
  * Got the accuracy of 98% on the test data.
 
+## Project 1:  ChatBot
+"This project is based on natural language processing which will chat with human like a human."
+ 
 
