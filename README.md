@@ -59,7 +59,7 @@ About me and about my work on data science
 
 
 ## Project 3: Machine Translation
-![]()
+![](/images/resize-16185953212137604552translator.png)
 
  " This is one of the major project of my second year. Build a machine Translation engine which will translate the text into french and hindi "
  
