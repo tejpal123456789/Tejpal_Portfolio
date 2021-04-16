@@ -44,9 +44,9 @@ About me and about my work on data science
  * Use keras tensorflow word embeddings to convert the words into their corresponding word vectors.
  * Used Bidirectional LSTMs(Recuurent Neural Networks) to train the model.
  * Got the accuracy of 98% on the test data.
+ 
+ -------------
 
-
--------------------
 ## [Project 2:  ChatBot](https://github.com/tejpal123456789/Chatbot/blob/main/Chatbot.ipynb)
   ![](/images/resize-1618594701874869920chatbot2.jpg)
   
@@ -57,6 +57,7 @@ About me and about my work on data science
 * Used Bag of words for the converting the words into vectors
 * Created model with the keras and Neural Networks and started chatting with the bot
 
+--------------------
 
 ## [Project 3: Machine Translation](https://github.com/tejpal123456789/Machine-Translation/blob/main/english_french.ipynb)
 ![](/images/resize-16185953212137604552translator.png)
@@ -69,7 +70,10 @@ About me and about my work on data science
  * Read the paper on encoder and decoder or Seq2Seq model and try to understand the concept and maths behind it.
  * Converted the paper into code with the help of keras tensorflow and Reccurent Neural Networks
 
+--------------------
+
  ## [Project 4 : AI in Health Care](https://github.com/tejpal123456789/Implementation-of-ML-in-Health-Care-5-projects)
+ 
  ![](/images/resize-1618595582767751135heathcareai.jpg)
  
  I have developed a disease predicting web app which using the concept of machine learning makes predictions about various diseases like cancer,heart, Diabetes etc.
