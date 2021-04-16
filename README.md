@@ -46,7 +46,7 @@ About me and about my work on data science
  * Got the accuracy of 98% on the test data.
 -------------------
 ## [Project 2:  ChatBot](https://github.com/tejpal123456789/Chatbot/blob/main/Chatbot.ipynb)
-  ![](/images/chatbot%20(2).jpg)
+  ![](/images/resize-1618594701874869920chatbot2.jpg)
   
 "This project is based on natural language processing which will chat with human like a human."
 
