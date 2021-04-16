@@ -46,7 +46,7 @@ About me and about my work on data science
  * Got the accuracy of 98% on the test data.
 
 ## Project 2:  ChatBot
-![](/images/chatbot.jpg)
+![](/images/chatbot%20(2).jpg)
 "This project is based on natural language processing which will chat with human like a human."
 
 
