@@ -16,7 +16,7 @@ About me and about my work on data science
 ## Project 1:  Text Classifications in Deep Learning
 "This project has sub projects which are totally based on text classification task using deep learning."
 
- ### [ Project 1.1: "DISASTER TWEETS ANANYSIS"](https://github.com/tejpal123456789/Natural-Language-Processing/blob/main/Diasaster_twitter_ananlysis.ipynb)
+### [ Project 1.1: "DISASTER TWEETS ANANYSIS"](https://github.com/tejpal123456789/Natural-Language-Processing/blob/main/Diasaster_twitter_ananlysis.ipynb)
 ![](/images/disaster1.jpg)
 
  * Created a model which will take tweets from the twitter and classify that it will be disaster news or not.
@@ -27,7 +27,7 @@ About me and about my work on data science
  
  -------------------
 
- ### [ Project 1.2: "SPAM CLASSIFIER"](https://github.com/tejpal123456789/Natural-Language-Processing/blob/main/spam_classifer.ipynb)
+### [ Project 1.2: "SPAM CLASSIFIER"](https://github.com/tejpal123456789/Natural-Language-Processing/blob/main/spam_classifer.ipynb)
  ![](/images/spam.jpg)
 
  * Created a deep learning model which will classify the text whether it is spam or ham.
@@ -36,7 +36,7 @@ About me and about my work on data science
  * Used LSTM(Recuurent Neural Networks) to train the model.
 
 ----------------------------
- ### [Project 1.3: "SARCASM DETECTION"](https://github.com/tejpal123456789/Natural-Language-Processing/blob/main/sarcasm_detection.ipynb)
+### [Project 1.3: "SARCASM DETECTION"](https://github.com/tejpal123456789/Natural-Language-Processing/blob/main/sarcasm_detection.ipynb)
 ![](/images/sarcasm.jpg)
  
  * Created a deep learning model which will classify the text whether it is spam or ham.
@@ -70,7 +70,7 @@ About me and about my work on data science
  * Read the paper on encoder and decoder or Seq2Seq model and try to understand the concept and maths behind it.
  * Converted the paper into code with the help of keras tensorflow and Reccurent Neural Networks
 
---------------------
+ --------------------
 
  ## [Project 4 : AI in Health Care](https://github.com/tejpal123456789/Implementation-of-ML-in-Health-Care-5-projects)
  
