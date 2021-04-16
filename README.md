@@ -47,6 +47,7 @@ About me and about my work on data science
 
 ## [Project 2:  ChatBot](https://github.com/tejpal123456789/Chatbot/blob/main/Chatbot.ipynb)
   ![](/images/chatbot%20(2).jpg)
+  
 "This project is based on natural language processing which will chat with human like a human."
 
 * Build a simple chatbot with the artificial neural networks
