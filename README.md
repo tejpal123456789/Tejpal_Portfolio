@@ -74,7 +74,6 @@ About me and about my work on data science
 
 
  ## [Project 4: AI in Health Care](https://github.com/tejpal123456789/Implementation-of-ML-in-Health-Care-5-projects)
- 
  ![](/images/resize-1618595582767751135heathcareai.jpg)
  
  I have developed a disease predicting web app which using the concept of machine learning makes predictions about various diseases like cancer,heart, Diabetes etc.
