@@ -1,6 +1,3 @@
-# Tejpal Kumawat Portfolio
-
-About me and about my work on data science
 
 # ABOUT
  ![](/images/resize-1618382436454832916tejpal.png)
