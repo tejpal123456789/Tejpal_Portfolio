@@ -69,5 +69,12 @@ About me and about my work on data science
  * Read the paper on encoder and decoder or Seq2Seq model and try to understand the concept and maths behind it.
  * Converted the paper into code with the help of keras tensorflow and Reccurent Neural Networks
 
- 
+ ## Project 4 : AI in Health Care
+ ![]()
+ I have developed a disease predicting web app which using the concept of machine learning makes predictions about various diseases like cancer,heart, Diabetes etc.
+ * Analyzed the performance of various machine learning algorithms in predicting the 5 Disease (Heart Disease,
+  Breast Cancer,Diabetes,Liver Disease,Kidney disease )
+ * Compared the performance of Ensemble and Boosting Classification techniques and Logistic Regression and focused to reduce the False Negative part of the confusion matrix
+ * Used Streamlit for making Web app and Deployed the whole model on the Heroku Platform  
+
 
