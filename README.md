@@ -45,9 +45,15 @@ About me and about my work on data science
  * Used Bidirectional LSTMs(Recuurent Neural Networks) to train the model.
  * Got the accuracy of 98% on the test data.
 
-## Project 2:  ChatBot
-![](/images/chatbot(2).jpg)
+## [Project 2:  ChatBot](https://github.com/tejpal123456789/Chatbot/blob/main/Chatbot.ipynb)
+  ![](/images/chatbot%20(2).jpg)
 "This project is based on natural language processing which will chat with human like a human."
+
+* Build a simple chatbot with the artificial neural networks
+* Used nltk natural language processing library for preprocessing the text
+* Used Bag of words for the converting the words into vectors
+* Created model with the keras and Neural Networks and started chatting with the bot
+
 
 
  
