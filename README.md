@@ -77,6 +77,6 @@ About me and about my work on data science
  * Analyzed the performance of various machine learning algorithms in predicting the 5 Disease (Heart Disease,
   Breast Cancer,Diabetes,Liver Disease,Kidney disease )
  * Compared the performance of Ensemble and Boosting Classification techniques and Logistic Regression and focused to reduce the False Negative part of the confusion matrix
- * Used Streamlit for making Web app and Deployed the whole model on the Heroku Platform  
+ * Used Streamlit for making [Web app](https://healthcare-app-prediction.herokuapp.com/) and Deployed the whole model on the Heroku Platform 
 
 
