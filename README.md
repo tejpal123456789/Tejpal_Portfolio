@@ -44,6 +44,8 @@ About me and about my work on data science
  * Use keras tensorflow word embeddings to convert the words into their corresponding word vectors.
  * Used Bidirectional LSTMs(Recuurent Neural Networks) to train the model.
  * Got the accuracy of 98% on the test data.
+
+
 -------------------
 ## [Project 2:  ChatBot](https://github.com/tejpal123456789/Chatbot/blob/main/Chatbot.ipynb)
   ![](/images/resize-1618594701874869920chatbot2.jpg)
