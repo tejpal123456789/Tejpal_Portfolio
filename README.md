@@ -84,5 +84,7 @@
  * Used Streamlit for making [Web app](https://healthcare-app-prediction.herokuapp.com/) and Deployed the whole model on the Heroku Platform 
 
 
-## [Project 5: Image Captioning]()
+## [Project 5: Image Captioning](https://github.com/tejpal123456789/Image-Captioning/blob/main/Image_Captioning_Project_.ipynb)
+
+  ![](/images/image_caption.png)
 
