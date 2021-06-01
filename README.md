@@ -88,3 +88,8 @@
 
   ![](/images/image_caption.png)
 
+ " This Project is based on both computer vision and deep learning(Natural Language Processing) "
+ 
+ * Data Collection and understanding - I have used the Flickr 8k dataset provided by the University of Illinois at Urbana-Champaign which easily avaiable. Understand the data and found that for one image multiple captions are given.
+ * Data Preprocessing - I used nltk and spacy to remove punctuation marks, stopwords from all the captions of the given images.
+ * Image Data Preprocessing - 
