@@ -91,5 +91,8 @@
  " This Project is based on both computer vision and deep learning(Natural Language Processing) "
  
  * Data Collection and understanding - I have used the Flickr 8k dataset provided by the University of Illinois at Urbana-Champaign which easily avaiable. Understand the data and found that for one image multiple captions are given.
- * Data Preprocessing - I used nltk and spacy to remove punctuation marks, stopwords from all the captions of the given images.
- * Image Data Preprocessing - 
+ * Text Preprocessing - I used nltk and spacy to remove punctuation marks, stopwords from all the captions of the given images.
+ * Image Data Preprocessing - Extracted all the features from the images by using transfer learning technique (ResNet50) by removing last layer of ResNet50.
+ * Text vectorization - Converted the words into vector by using keras word embeddings and make a vector of length same as feature of image
+ * Merging -  Merged (added)  both the image vector and text vector to get the final vector for whole caption
+ * model - Build a LSTM model to train our merged vector and also set a new architecture for our new inference model
